@@ -1,1 +1,1 @@
-Segundo arquivo modificado no ramo master
+Segundo arquivo no branch teste
