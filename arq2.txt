@@ -1,2 +1,4 @@
 Segundo arquivo no branch teste
 Segunda linha do arq2
+Teste aula GIT
+Mais uma linha complementar
